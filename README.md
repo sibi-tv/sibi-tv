@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sibi-tv&theme=monokai)](https://git.io/streak-stats)
+
 <!--
 **sibi-tv/sibi-tv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
